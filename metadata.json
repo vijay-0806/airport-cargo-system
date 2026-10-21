@@ -1,0 +1,6 @@
+{
+  "name": "Airport Cargo & Warehouse Management System",
+  "description": "Enterprise digital cargo registration, warehouse storage capacity, real-time shipment lifecycle tracking, and dispatch platform for airport logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
