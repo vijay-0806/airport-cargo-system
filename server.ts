@@ -60,7 +60,7 @@ async function startServer() {
     });
   });
 
-  app.listen(PORT, 'localhost', () => {
+  app.listen(PORT, '0.0.0.0', () => {
     console.log(`✈️ Airport Cargo & Warehouse Management System running on http://localhost:${PORT}`);
   });
 }
